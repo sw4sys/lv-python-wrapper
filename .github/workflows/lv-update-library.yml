@@ -12,6 +12,6 @@ on:
 jobs:
   call-lv-update-library:
     name: Call "Update library branch"
-    uses: sw4sys/.github/.github/workflows/lv_update_library.yml@master
+    uses: sw4sys/.github/.github/workflows/lv-update-library.yml@master
     permissions:
       contents: write
