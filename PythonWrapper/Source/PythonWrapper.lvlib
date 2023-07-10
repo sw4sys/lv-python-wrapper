@@ -11,4 +11,5 @@
 	<Item Name="PythonSession.lvclass" Type="LVClass" URL="../PythonSession/PythonSession.lvclass"/>
 	<Item Name="PythonWrapper.lvclass" Type="LVClass" URL="../PythonWrapper/PythonWrapper.lvclass"/>
 	<Item Name="Example.vi" Type="VI" URL="../Example.vi"/>
+	<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 </Library>
