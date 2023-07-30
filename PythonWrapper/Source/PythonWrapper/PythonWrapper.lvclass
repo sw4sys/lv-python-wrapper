@@ -59,7 +59,7 @@
 	</Item>
 	<Item Name="Protected" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
-		<Item Name="CreatePythonFile.vi" Type="VI" URL="../CreatePythonFile.vi">
+		<Item Name="CreateModuleFile.vi" Type="VI" URL="../CreateModuleFile.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;*!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%:!=!!?!!!L%V"Z&gt;'BP&lt;F&gt;S98"Q:8)O&lt;(:M;7)65(FU;'^O6X*B=("F=CZM&gt;G.M98.T!"&amp;1?82I&lt;WZ8=G&amp;Q='6S)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!%:!=!!?!!!L%V"Z&gt;'BP&lt;F&gt;S98"Q:8)O&lt;(:M;7)65(FU;'^O6X*B=("F=CZM&gt;G.M98.T!""1?82I&lt;WZ8=G&amp;Q='6S)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q-!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!A!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -68,8 +68,8 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
 		</Item>
-		<Item Name="PythonCode.vi" Type="VI" URL="../PythonCode.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%!!!!!"1!%!!!!&amp;%!Q`````QJ1?82I&lt;WZ$&lt;W2F!!"'1(!!(A!!+R.1?82I&lt;WZ8=G&amp;Q='6S,GRW&lt;'FC&amp;6"Z&gt;'BP&lt;F&gt;S98"Q:8)O&lt;(:D&lt;'&amp;T=Q!25(FU;'^O6X*B=("F=C"P&gt;81!2E"Q!"Y!!#M45(FU;'^O6X*B=("F=CZM&gt;GRJ9B61?82I&lt;WZ8=G&amp;Q='6S,GRW9WRB=X-!%&amp;"Z&gt;'BP&lt;F&gt;S98"Q:8)A;7Y!!&amp;1!]!!-!!!!!!!"!!)!!!!!!!!!!!!!!!!!!!!$!A!!?!!!!!!!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#1!!!!!!%!"!!!!!!</Property>
+		<Item Name="ModuleCode.vi" Type="VI" URL="../ModuleCode.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%!!!!!"1!%!!!!&amp;%!Q`````QJ.&lt;W2V&lt;'6$&lt;W2F!!"'1(!!(A!!+R.1?82I&lt;WZ8=G&amp;Q='6S,GRW&lt;'FC&amp;6"Z&gt;'BP&lt;F&gt;S98"Q:8)O&lt;(:D&lt;'&amp;T=Q!25(FU;'^O6X*B=("F=C"P&gt;81!2E"Q!"Y!!#M45(FU;'^O6X*B=("F=CZM&gt;GRJ9B61?82I&lt;WZ8=G&amp;Q='6S,GRW9WRB=X-!%&amp;"Z&gt;'BP&lt;F&gt;S98"Q:8)A;7Y!!&amp;1!]!!-!!!!!!!"!!)!!!!!!!!!!!!!!!!!!!!$!A!!?!!!!!!!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#1!!!!!!%!"!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
